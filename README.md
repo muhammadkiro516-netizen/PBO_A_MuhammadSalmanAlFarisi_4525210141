@@ -1,10 +1,10 @@
-# Tugas 1 PBO - Convert Java ke PHP
+# Tugas PBO - Pertemuan 01-07
 
 Nama : Muhammad Salman Al Farisi  
 NIM  : 4525210141  
 Kelas: PBO A
 
-Tugas konversi source code Java pertemuan 01 sampai 06 ke bahasa PHP.
+Folder 01 sampai 06 berisi konversi source code Java ke PHP. Folder 07 berisi tugas pemodelan relasi objek dan UML.
 
 Source code asli (Java): https://github.com/adiwp/pbo20192020II/tree/master/gasal20242025
 
@@ -18,6 +18,7 @@ Source code asli (Java): https://github.com/adiwp/pbo20192020II/tree/master/gasa
 | [04](04) | Polymorphism |
 | [05](05) | Asosiasi, Agregasi, Komposisi |
 | [06](06) | Abstract Class dan Interface |
+| [07](07) | Pemodelan Relasi Objek dan UML |
 
 ## Cara Menjalankan
 
